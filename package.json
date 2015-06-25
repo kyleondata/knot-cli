@@ -1,0 +1,22 @@
+{
+  "name": "knot-cli",
+  "version": "1.0.0",
+  "description": "Command line interface for managing knot configs",
+  "main": "knot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleondata/knot-cli.git"
+  },
+  "author": "Kyle Jennings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleondata/knot-cli/issues"
+  },
+  "homepage": "https://github.com/kyleondata/knot-cli#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
